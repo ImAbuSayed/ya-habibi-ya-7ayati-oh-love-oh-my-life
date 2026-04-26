@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي يا حياتي في كل حين
+> شوقي في قلبي يشتعل كالبراكين
+> أنت روحي ونبضي في هذا الوجود
+> حبنا يكسر كل السدود
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
