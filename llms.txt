@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 26, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ya-habibi-ya-7ayati-oh-love-oh-my-life/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License this song: Ya Habibi Ya 7ayati – Oh Love, Oh My Life](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
