@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ya Habibi Ya 7ayati – Oh Love, Oh My Life
+
+This log tracks the cryptographic history and versioning for the song **Ya Habibi Ya 7ayati – Oh Love, Oh My Life** (ya-habibi-ya-7ayati-oh-love-oh-my-life).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T08:37:33.463244 | `v1` | `f7aa830376c974d29d3013af4c49f57d1f1c18d1fe369863cc0af83922464537` | `765392ffcba73e85940fd6146094587491499a870ba32aacfa79040bf56646ed` | `2026-05-09_ya-habibi-ya-7ayati-oh-love-oh-my-life-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
